@@ -1,0 +1,12 @@
+a=int(input("enter number 1"))
+b=int(input("enter number 2"))
+a+=b
+print("a+=b:  ",a)
+a-=b
+print("a-=b:   ",a)
+a*=b
+print("a*=b:   ",a)
+a/=b
+print("a/=b:   ",a)
+a%=b
+print("a%=b:   ",a)
